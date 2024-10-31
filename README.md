@@ -1,1 +1,2 @@
-# tarefas_armazedas
+# tarefas
+Armazena tarefas, deleta, check e atualiza.
